@@ -171,8 +171,8 @@ onDelete: CASCADE
 
 ```bash
 # Clone repository
-git clone https://github.com/zoro/tugas-laravel.git
-cd tugas-laravel
+git clone https://github.com/rineganhachi-ai/zoro
+cd zoro
 
 # Install dependency
 composer install
